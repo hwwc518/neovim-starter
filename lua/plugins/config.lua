@@ -1,4 +1,5 @@
 return {
+  -- toggle neotree with cmd-s
   "nvim-neo-tree/neo-tree.nvim",
   keys = {
     { "<M-s>", "<leader>fe", desc = "Explorer NeoTree (root dir)", remap = true },
